@@ -1,7 +1,8 @@
-site_name: Southern California local earthquake tomography
+site_name: SCAL LET
 
 nav:
     - Home: 'index.md' 
     - Introduction: 'intro.md'
+    - Data: 'data.md'
 
 theme: readthedocs
