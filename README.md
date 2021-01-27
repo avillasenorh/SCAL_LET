@@ -1,7 +1,7 @@
 # SCAL_LET
 Southern California local earthquake tomography
 
-This documentation is available at [](https://avillasenorh.github.io/SCAL_LET/)
+This documentation is available [here](https://avillasenorh.github.io/SCAL_LET/).
 
 ## Create documentation with MkDocs
 
