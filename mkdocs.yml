@@ -1,0 +1,7 @@
+site_name: Southern California local earthquake tomography
+
+nav:
+    - Home: 'index.md' 
+    - Introduction: 'intro.md'
+
+theme: readthedocs
